@@ -17,7 +17,7 @@
     href="https://solved.ac/jyparksun9988"
   >
     <img
-      src="http://mazassumnida.wtf/api/generate_badge?boj=jyparksun9988"
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyparksun9988"
       height="180em"
     />
   </a>
