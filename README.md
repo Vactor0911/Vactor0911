@@ -7,18 +7,6 @@
   />
 </div>
 
-## 🎖️ Baekjoon Stats
-<div align="center">
-  <a
-    href="https://solved.ac/jyparksun9988"
-  >
-    <img
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyparksun9988"
-      height="180em"
-    />
-  </a>
-</div>
-
 #### 📖 Studying
 [![Tauri](https://img.shields.io/badge/tauri-%2324C8D8?style=for-the-badge&logo=tauri&logoColor=white)](https://v2.tauri.app/)
 [![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://react.dev/)
